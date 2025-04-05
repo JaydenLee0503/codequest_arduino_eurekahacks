@@ -4,7 +4,7 @@
 const int sensor_pin = A0; 
 int sensor; 
 const int threshold= 500; 
-//aaaaa
+//aaaahghghgghga
 const int IR_RECEIVE_PIN = 2;
 LiquidCrystal lcd(7, 8, 9, 10, 11, 12);  
 
